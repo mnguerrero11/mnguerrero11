@@ -1,6 +1,10 @@
-Manuel Guerrero García
-Estudiante de Ingeniería Informática (Software)
 
+---
+
+# Manuel Guerrero García
+**Grado en Ingeniería Informática (Software) - Máster en Big Data y Cloud Computing**
+
+---
 
 <p align="center">
   <a href="mailto:maguercia@gmail.com">
@@ -11,31 +15,43 @@ Estudiante de Ingeniería Informática (Software)
   </a>
   <a href="https://github.com/manuelguerrero">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <span>
     <img src="https://img.shields.io/badge/location-Sevilla,%20España-FF5733?style=for-the-badge" alt="Location">
   </span>
 </p>
 
-Perfil Profesional
-Estudiante entusiasta de cuarto año en Ingeniería Informática, con una mención especializada en Ingeniería del Software. Apasionado por la tecnología y dedicado a avanzar tanto académica como profesionalmente. Mi enfoque se centra en continuar adquiriendo conocimientos y habilidades sólidas en el campo de la ingeniería del software.
+---
 
-Objetivo Profesional
-Busco oportunidades para adquirir valiosa experiencia en mi primer empleo, ampliar mi base de conocimientos y formación en diversos aspectos de la ingeniería del software. Aspiro a realizar un máster relacionado con mi carrera para impulsar mi crecimiento profesional, y estoy abierto a recomendaciones que fortalezcan mi camino hacia la excelencia académica y el desarrollo en esta apasionante disciplina.
+## Perfil Profesional
+**Estudiante entusiasta de cuarto año en Ingeniería Informática**, con una mención especializada en Ingeniería del Software. Apasionado por la tecnología y dedicado a avanzar tanto académica como profesionalmente. Mi enfoque se centra en continuar adquiriendo conocimientos y habilidades sólidas en el campo de la ingeniería del software.
 
-Formación
-Ingeniería Informática con Especialidad en Ingeniería del Software
+---
 
-Universidad de Huelva, 2019-2023
-Trabajo de fin de grado pendiente
-Fecha de finalización esperada: diciembre de 2023
-Movilidad Erasmus
+## Objetivo Profesional
+Busco oportunidades para adquirir **valiosa experiencia en mi primer empleo**, ampliar mi base de conocimientos y formación en diversos aspectos de la ingeniería del software. Aspiro a realizar un máster relacionado con mi carrera para impulsar mi crecimiento profesional, y estoy abierto a recomendaciones que fortalezcan mi camino hacia la excelencia académica y el desarrollo en esta apasionante disciplina.
 
-Universidad Federico II de Nápoles, Italia, 2022-2023
-Programa de intercambio académico desde septiembre de 2022 hasta julio de 2023
-Desarrollo de habilidades interculturales y académicas en un entorno internacional
-Formación Adicional y Certificaciones
-CCNA 1 (Cisco Certified Networking Associate)
-Habilidades Técnicas
+---
+
+## Formación
+
+### Ingeniería Informática con Especialidad en Ingeniería del Software
+- **Universidad de Huelva, 2019-2023**
+  - Trabajo de fin de grado pendiente
+  - Fecha de finalización esperada: diciembre de 2023
+
+### Movilidad Erasmus
+- **Universidad Federico II de Nápoles, Italia, 2022-2023**
+  - Programa de intercambio académico desde septiembre de 2022 hasta julio de 2023
+  - Desarrollo de habilidades interculturales y académicas en un entorno internacional
+
+### Formación Adicional y Certificaciones
+- **CCNA 1 (Cisco Certified Networking Associate)**
+
+---
+
+## Habilidades Técnicas
+
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -55,14 +71,26 @@ Habilidades Técnicas
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/agile-SCRUM?style=for-the-badge&logo=scrum&logoColor=white" alt="Agile">
 </p>
-Lenguajes de Programación: Java, C++, Python, JavaScript, SQL
-Desarrollo Web: HTML5, CSS3, PHP
-Bases de Datos: MySQL, Oracle, MongoDB
-Sistemas Operativos: Windows, Linux
-Redes: Protocolos TCP/IP, Configuración de redes locales
-Herramientas de Desarrollo: IDEs (Eclipse, Visual Studio Code), Control de versiones con Git, Depuradores y analizadores de código
-Ingeniería de Software: Metodologías Ágiles (Scrum), Diseño y Arquitectura de Software, Pruebas de Software (unitarias, de integración)
-Idiomas
-Inglés: B2 First | Cambridge English University
-Contacto
-Email: maguercia@gmail.com
+
+- **Lenguajes de Programación**: Java, C++, Python, JavaScript, SQL
+- **Desarrollo Web**: HTML5, CSS3, PHP
+- **Bases de Datos**: MySQL, Oracle, MongoDB
+- **Sistemas Operativos**: Windows, Linux
+- **Redes**: Protocolos TCP/IP, Configuración de redes locales
+- **Herramientas de Desarrollo**: IDEs (Eclipse, Visual Studio Code), Control de versiones con Git, Depuradores y analizadores de código
+- **Ingeniería de Software**: Metodologías Ágiles (Scrum), Diseño y Arquitectura de Software, Pruebas de Software (unitarias, de integración)
+
+---
+
+## Idiomas
+
+- **Inglés**: B2 First | Cambridge English University
+
+---
+
+## Contacto
+
+- **Email**: maguercia@gmail.com
+- **Ubicación**: Huelva-Sevilla
+
+---
