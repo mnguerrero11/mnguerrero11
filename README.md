@@ -36,14 +36,15 @@ Busco oportunidades para adquirir **valiosa experiencia en mi primer empleo**, a
 ## Formación
 
 ### Ingeniería Informática con Especialidad en Ingeniería del Software
-- **Universidad de Huelva, 2019-2023**
-  - Trabajo de fin de grado pendiente
-  - Fecha de finalización esperada: diciembre de 2023
+- **Universidad de Huelva, 2019-2024**
 
 ### Movilidad Erasmus
 - **Universidad Federico II de Nápoles, Italia, 2022-2023**
   - Programa de intercambio académico desde septiembre de 2022 hasta julio de 2023
   - Desarrollo de habilidades interculturales y académicas en un entorno internacional
+ 
+### Máster en Ingeniería Informática - Big Data y Cloud Computing
+- **Universidad de Huelva, 2023-2025**
 
 ### Formación Adicional y Certificaciones
 - **CCNA 1 (Cisco Certified Networking Associate)**
