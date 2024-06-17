@@ -10,7 +10,7 @@
   <a href="mailto:maguercia@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/manuelguerrerogarcia">
+  <a href="https://www.linkedin.com/in/manuel-guerrero-garc%C3%ADa-24694426b">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/manuelguerrero">
